@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Ambitious Full-Stack Developer | Computer Science Student
+   Full-Stack Developer | Computer Science Student
 </h3>
 
 ---
