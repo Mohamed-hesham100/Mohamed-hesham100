@@ -24,11 +24,6 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,django,nodejs,express,react,nextjs,tailwind,redux,mui,framer,mongodb,postgresql,git,github,postman,windows" height="90" style="margin: 10px; animation: moveIcons 30s linear infinite;" />
 </div>
 
-<style>
-@keyframes moveIcons {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
 </style>
 
 ---
