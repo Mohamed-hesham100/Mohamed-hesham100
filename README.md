@@ -30,18 +30,19 @@
 ---
 
 ## 💻 Technical Skills
-- **Programming Languages:** JavaScript, TypeScript, Python, HTML5, CSS3
-- **Backend Frameworks:** Django, Node.js, Express.js, Django REST Framework
-- **Frontend Technologies:** React.js, Framer Motion
-- **Databases:** MongoDB, PostgreSQL
-- **Authentication:** OAuth, JWT, Token Authentication
-- **Tools:** Git, GitHub, Postman
-- **Other Skills:** OOP, SQL, API Testing, Team Collaboration, Problem Solving
-- **Operating Systems:** Windows
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,nodejs,express,react,mongodb,html,css,js,git,github,figma,postman,windows" alt="Tech Stack" />
-</p>
+<div align="center" style="overflow: hidden; white-space: nowrap;">
+  <div style="display: inline-block; animation: slide 20s linear infinite;">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,django,nodejs,express,react,mongodb,postgresql,git,github,postman,windows" height="50" style="margin: 0 10px;" />
+  </div>
+</div>
+
+<style>
+@keyframes slide {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
 
 ---
 
