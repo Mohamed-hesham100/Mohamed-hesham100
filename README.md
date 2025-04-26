@@ -22,9 +22,10 @@
 
 <div align="center" style="overflow: hidden; white-space: nowrap;">
   <div style="display: inline-block; animation: slide 20s linear infinite;">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,django,nodejs,express,react,mongodb,postgresql,git,github,postman,windows" height="50" style="margin: 0 10px;" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,django,nodejs,express,react,nextjs,mongodb,postgresql,git,github,postman,windows" height="50" style="margin: 0 10px;" />
   </div>
 </div>
+
 
 ---
 
@@ -32,4 +33,4 @@
 - **Bachelor of Computer Science**  
   EELU University, Tanta Branch | 📅 2023 – Present | 📚 2nd Year
 
----
+
