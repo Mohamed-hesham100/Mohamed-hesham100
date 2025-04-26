@@ -39,20 +39,9 @@
 - **Other Skills:** OOP, SQL, API Testing, Team Collaboration, Problem Solving
 - **Operating Systems:** Windows
 
----
-
-## 🛠️ Projects
-1. **Full-Stack E-commerce Platform:**  
-   Node.js + Express.js + React.js + MongoDB | Integrated PayPal & Stripe for secure payments.
-   
-2. **E-commerce API System:**  
-   RESTful API with Express.js and MongoDB | Authentication, Product Management, Order Processing.
-
-3. **Comprehensive Blog Platform:**  
-   Django + PostgreSQL | User authentication, blog management, admin dashboard.
-
-4. **Inventory Management System:**  
-   JavaScript, HTML5, CSS3 | Track stock, manage suppliers, monitor fulfillment.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,nodejs,express,react,mongodb,html,css,js,git,github,figma,postman,windows" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -75,9 +64,3 @@
   - Designed and managed PostgreSQL & MongoDB databases.
   - Applied advanced performance optimization techniques (lazy loading, caching, optimized queries).
   - Delivered interactive, secure, and user-friendly web applications.
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,nodejs,express,react,mongodb,html,css,js,git,github" alt="Tech Stack" />
-</p>
