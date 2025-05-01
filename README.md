@@ -14,7 +14,7 @@
 - 🌐 Portfolio: [My Portfolio](https://mohamedasddf.github.io/portfolio/)
 - 🐙 GitHub: [GitHub 1](https://github.com/Mohamedasddf) | [GitHub 2](https://github.com/Mohamed-hesham100)
 - 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohamed-hesham-89800029b/)
-- 📄 CV: [Download My CV](https://drive.google.com/file/d/1AFysRWiarNXMH5zKy2g7OfarY-Sch0yP/view?usp=drive_link)
+- 📄 CV: [Download My CV](https://drive.google.com/file/d/1AFysRWiarNXMH5zKy2g7OfarY-Sch0yP/view?usp=drive_link](https://drive.google.com/file/d/1eZiwfqt_Z-mZsLkDQSCZNoPgF1prVwYh/view?usp=drive_link)
 
 ---
 
