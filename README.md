@@ -17,11 +17,7 @@
 
 - 📧 **Email:** [mh1351448@gmail.com](mailto:mh1351448@gmail.com)  
 - 📞 **Phone:** +20 101 393 2585  
-- 🌐 **Portfolio:** [My Portfolio](https://mohamedasddf.github.io/portfolio/)  
-- 🐙 **GitHub:** [Mohamedasddf](https://github.com/Mohamedasddf) | [Mohamed-hesham100](https://github.com/Mohamed-hesham100)  
 - 🔗 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mohamed-hesham-89800029b/)  
-- 📄 **CV:** [Download My CV (PDF)](https://drive.google.com/file/d/1eZiwfqt_Z-mZsLkDQSCZNoPgF1prVwYh/view?usp=drive_link)
-
 ---
 
 ## 💻 Technical Skills
