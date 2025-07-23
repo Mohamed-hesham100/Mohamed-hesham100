@@ -33,26 +33,3 @@
 - **Bachelor of Computer Science**  
   Egyptian E-Learning University (EELU) – Tanta Branch  
   📅 2023 – Present | 📚 2nd Year Student
-
----
-
-## 🚀 What I’m Working On
-
-- RESTful APIs using Django & Django REST Framework  
-- Dynamic dashboards and admin panels  
-- Payment integration (PayPal, Stripe)  
-- Authentication systems using JWT & Token  
-- Learning more about **Cloud (AWS)** and **DevOps tools**
-
----
-
-## 🧠 Fun Facts About Me
-
-- I love clean, minimal UI  
-- I enjoy building real-world web apps from scratch  
-- Constantly learning new tools & frameworks  
-- I believe in **code readability** and **scalability**
-
----
-
-⭐ Feel free to check out my portfolio and reach out if you'd like to collaborate!
