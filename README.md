@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2048,100:14468f&height=260&section=header&text=Mohamed%20Hisham&fontSize=72&fontColor=f4f8ff&fontAlignY=40&desc=Full-stack%20developer&descSize=26&descAlignY=66&descColor=ffb400&stroke=7ea3e0&strokeWidth=2" width="100%" alt="Mohamed Hisham, full-stack developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2048,50:14468f,100:2a7de1&height=300&section=header&text=Mohamed%20Hisham&fontSize=68&fontColor=f4f8ff&fontAlignY=36&desc=Full-stack%20developer&descSize=26&descAlignY=57&descColor=ffb400&animation=fadeIn" width="100%" alt="Mohamed Hisham, full-stack developer" />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1100&color=DBE7FF&background=0E2A57&center=true&vCenter=true&width=900&height=52&lines=I+build+the+whole+request+path.;UI%2C+API%2C+payments%2C+database%2C+and+the+Linux+server.;Shipped+to+the+Saudi+and+Egyptian+markets.;Open+to+full-time+roles%2C+including+relocation." alt="I build the whole request path: UI, API, payments, database, and the Linux server. Open to full-time roles, including relocation." />
   <br/><br/>
   <img src="https://img.shields.io/badge/Open%20to-full--time%20roles%2C%20including%20relocation-ffb400?style=for-the-badge&labelColor=0e2a57" alt="Open to full-time roles, including relocation" />
@@ -176,4 +176,4 @@ flowchart LR
   <a href="https://portfolio2-tau-inky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio2--tau--inky.vercel.app-163a73?style=for-the-badge&labelColor=ffb400" alt="Portfolio: portfolio2-tau-inky.vercel.app" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14468f,100:0a2048&height=110&section=header&text=Open%20to%20full-time%20roles%2C%20including%20relocation&fontSize=22&fontColor=ffb400&fontAlignY=50&stroke=7ea3e0&strokeWidth=2" width="100%" alt="Open to full-time roles, including relocation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2048,50:14468f,100:2a7de1&height=170&section=footer&text=Open%20to%20full-time%20roles%2C%20including%20relocation&fontSize=20&fontColor=ffb400&fontAlignY=68" width="100%" alt="Open to full-time roles, including relocation" />
