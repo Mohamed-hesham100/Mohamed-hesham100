@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 287" width="1000" height="287" role="img" aria-label="About">
+<rect x="10" y="10" width="982" height="277" rx="22" fill="#121212"/><rect x="3" y="3" width="982" height="277" rx="22" fill="#FFFFFF" stroke="#121212" stroke-width="3" />
+<defs><clipPath id="cc"><rect x="3" y="3" width="982" height="277" rx="22"/></clipPath></defs>
+<g clip-path="url(#cc)"><rect x="3" y="3" width="24" height="277" fill="#FF6B4A"/><line x1="27" y1="3" x2="27" y2="280" stroke="#121212" stroke-width="3"/></g>
+<rect x="3" y="3" width="982" height="277" rx="22" fill="none" stroke="#121212" stroke-width="3"/>
+<text x="56" y="58" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">I build secure, production-ready web applications and take them all the way to production myself: the</text>
+<text x="56" y="85" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">API, the database, and the Linux server they run on.</text>
+<text x="56" y="124" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">My main work is two e-commerce platforms for the Saudi and Egyptian markets, integrated with local</text>
+<text x="56" y="151" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">payment gateways and shipping carriers, and Secrela, a B2B platform that helps companies protect their</text>
+<text x="56" y="178" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">sensitive data.</text>
+<text x="56" y="217" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">I&#x27;m a Computer Science student at EELU (expected 2027), open to full-time opportunities, including</text>
+<text x="56" y="244" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#121212">relocation.</text>
+</svg>
