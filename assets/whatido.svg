@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="What I do">
+<rect x="0.75" y=".75" width="310.5" height="188.5" rx="18" fill="#0B1020" stroke="#22304A"/>
+<rect x="26" y="26" width="40" height="40" rx="12" fill="#22D3EE" fill-opacity=".12" stroke="#22D3EE" stroke-opacity=".45"/>
+<text x="46" y="52" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#22D3EE">{ }</text>
+<text x="26" y="92" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Backend &amp; APIs</text>
+<text x="26" y="118" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">REST APIs with Node.js/Express and</text><text x="26" y="139" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">Django REST Framework, secured</text><text x="26" y="160" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">with JWT and OAuth 2.0.</text>
+<rect x="344.75" y=".75" width="310.5" height="188.5" rx="18" fill="#0B1020" stroke="#22304A"/>
+<rect x="370" y="26" width="40" height="40" rx="12" fill="#FBBF24" fill-opacity=".12" stroke="#FBBF24" stroke-opacity=".45"/>
+<text x="390" y="52" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#FBBF24">$</text>
+<text x="370" y="92" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Payments &amp; Integrations</text>
+<text x="370" y="118" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">Gateways and shipping carriers for</text><text x="370" y="139" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">the Saudi and Egyptian markets,</text><text x="370" y="160" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">with secure webhook handling.</text>
+<rect x="688.75" y=".75" width="310.5" height="188.5" rx="18" fill="#0B1020" stroke="#22304A"/>
+<rect x="714" y="26" width="40" height="40" rx="12" fill="#34D399" fill-opacity=".12" stroke="#34D399" stroke-opacity=".45"/>
+<text x="734" y="52" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,'Courier New',monospace" font-size="15" font-weight="700" fill="#34D399">&gt;_</text>
+<text x="714" y="92" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Deployment</text>
+<text x="714" y="118" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">Linux VPS, Nginx, PM2, GitHub</text><text x="714" y="139" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">Actions CI/CD, SSL/TLS automation,</text><text x="714" y="160" font-family="'Segoe UI','SF Pro Display',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#B6C3D8">and server hardening.</text>
+</svg>
