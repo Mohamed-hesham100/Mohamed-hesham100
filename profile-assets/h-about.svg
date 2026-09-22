@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 76" width="1000" height="76" role="img" aria-label="About">
-<style>.dl{animation:ds 1s linear infinite}@keyframes ds{to{stroke-dashoffset:-11}}</style>
-<rect x="8" y="10" width="56" height="56" rx="14" fill="#121212"/><rect x="4" y="6" width="56" height="56" rx="14" fill="#FFD23F" stroke="#121212" stroke-width="3" />
-<text x="32" y="43" text-anchor="middle" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="22" fill="#121212">01</text>
-<text x="84" y="46" font-family="'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="32" fill="#121212" textLength="100" lengthAdjust="spacingAndGlyphs">About</text>
-<line class="dl" x1="204" y1="36" x2="948" y2="36" stroke="#121212" stroke-width="3" stroke-linecap="round" stroke-dasharray="3 8"/>
-<polygon points="978,36 958,24 958,48" fill="#121212"/>
-</svg>
