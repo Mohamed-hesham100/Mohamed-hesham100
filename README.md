@@ -1,19 +1,33 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2048,50:14468f,100:2a7de1&height=300&section=header&text=Mohamed%20Hisham&fontSize=68&fontColor=f4f8ff&fontAlignY=36&desc=Full-stack%20developer&descSize=26&descAlignY=57&descColor=ffb400&animation=fadeIn" width="100%" alt="Mohamed Hisham, full-stack developer" />
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1100&color=DBE7FF&background=0E2A57&center=true&vCenter=true&width=900&height=52&lines=I+build+the+whole+request+path.;UI%2C+API%2C+payments%2C+database%2C+and+the+Linux+server.;Shipped+to+the+Saudi+and+Egyptian+markets.;Open+to+full-time+roles%2C+including+relocation." alt="I build the whole request path: UI, API, payments, database, and the Linux server. Open to full-time roles, including relocation." />
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-hesham100&style=for-the-badge&color=0e2a57&labelColor=ffb400&label=PROFILE+VIEWS" alt="Profile views" />
+
   <br/><br/>
+
   <img src="https://img.shields.io/badge/Open%20to-full--time%20roles%2C%20including%20relocation-ffb400?style=for-the-badge&labelColor=0e2a57" alt="Open to full-time roles, including relocation" />
+
   <br/><br/>
+
   <img src="https://img.shields.io/badge/UI-Next.js%20%2B%20React-0e2a57?style=flat-square&labelColor=ffb400" alt="UI: Next.js + React" /> &nbsp;&rarr;&nbsp; <img src="https://img.shields.io/badge/API-Node.js%20%2B%20Django-0e2a57?style=flat-square&labelColor=ffb400" alt="API: Node.js + Django" /> &nbsp;&rarr;&nbsp; <img src="https://img.shields.io/badge/Payments-gateways%20%2B%20webhooks-0e2a57?style=flat-square&labelColor=ffb400" alt="Payments: gateways + webhooks" /> &nbsp;&rarr;&nbsp; <img src="https://img.shields.io/badge/Database-MongoDB%20%2B%20PostgreSQL-0e2a57?style=flat-square&labelColor=ffb400" alt="Database: MongoDB + PostgreSQL" /> &nbsp;&rarr;&nbsp; <img src="https://img.shields.io/badge/Server-Linux%20%2B%20Nginx%20%2B%20Docker-0e2a57?style=flat-square&labelColor=ffb400" alt="Server: Linux + Nginx + Docker" />
+
   <br/><br/>
+
   <a href="#about"><b>About</b></a> &nbsp;|&nbsp;
   <a href="#request-path"><b>Request path</b></a> &nbsp;|&nbsp;
   <a href="#work"><b>Work</b></a> &nbsp;|&nbsp;
   <a href="#skills"><b>What I do</b></a> &nbsp;|&nbsp;
   <a href="#stack"><b>Stack</b></a> &nbsp;|&nbsp;
   <a href="#activity"><b>Activity</b></a> &nbsp;|&nbsp;
+  <a href="#trophies"><b>Trophies</b></a> &nbsp;|&nbsp;
   <a href="#contact"><b>Contact</b></a>
+
   <br/><br/>
+
   <img src="https://img.shields.io/badge/Production%20apps-5%2B-163a73?style=for-the-badge&labelColor=0a2048" alt="Production apps: 5+" /> <img src="https://img.shields.io/badge/Markets-Saudi%20Arabia%20%26%20Egypt-163a73?style=for-the-badge&labelColor=0a2048" alt="Markets: Saudi Arabia & Egypt" /> <img src="https://img.shields.io/badge/Freelancing-since%202024-163a73?style=for-the-badge&labelColor=0a2048" alt="Freelancing: since 2024" /> <img src="https://img.shields.io/badge/Deploys-automated%20CI%2FCD-163a73?style=for-the-badge&labelColor=0a2048" alt="Deploys: automated CI/CD" />
 </div>
 
@@ -109,7 +123,7 @@ flowchart LR
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h4>Backend and APIs</h4>
+      <h4 align="center">🛠️ Backend and APIs</h4>
       <ul>
         <li>Secure REST APIs with Node.js, Express, and Django</li>
         <li>Data models in MongoDB and PostgreSQL</li>
@@ -117,7 +131,7 @@ flowchart LR
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>Payments and integrations</h4>
+      <h4 align="center">💳 Payments and integrations</h4>
       <ul>
         <li>Payment gateways wired into real stores</li>
         <li>Webhooks and third-party services</li>
@@ -125,7 +139,7 @@ flowchart LR
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>Deployment</h4>
+      <h4 align="center">🚀 Deployment</h4>
       <ul>
         <li>Linux servers configured with Nginx</li>
         <li>Docker for repeatable environments</li>
@@ -159,7 +173,20 @@ flowchart LR
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-hesham100&border=4a6fb0&background=0E2A57&ring=FFB400&fire=FFB400&currStreakLabel=DBE7FF&sideLabels=DBE7FF&dates=9FC0F2&stroke=0E2A57" width="70%" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-hesham100&bg_color=0e2a57&color=dbe7ff&line=ffb400&point=ffffff&area=true&area_color=ffb400&hide_border=true&custom_title=Contribution%20activity" width="100%" alt="Contribution activity graph" />
+</p>
+
+<br/>
+
+<a id="trophies"></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e2a57&height=56&section=header&text=Trophy%20case&fontSize=22&fontColor=f4f8ff&fontAlignY=50&stroke=7ea3e0&strokeWidth=1" width="100%" alt="Trophy case" />
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-hesham100&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 <br/>
